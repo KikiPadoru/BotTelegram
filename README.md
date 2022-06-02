@@ -4,8 +4,7 @@
 А сейчас расскажем, что за библиотеки мы использовали.
 # Описания API приложения
 Чтоб была возможность общения нашей программы с telegram, мы использовали библиотеку python-telegram-bot(ссылка на библиотеку https://github.com/python-telegram-bot/python-telegram-bot)
-(ссылка на док. https://core.telegram.org/bots/api)
-Разобраться в этой библиотеке было не так сложно, так как куча официальных примеров (ссылка на примеры https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/README.md), и хорошая документация.
+Разобраться в этой библиотеке было не так сложно, так как куча официальных примеров (ссылка на примеры https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/README.md), и хорошая документация(ссылка на док. https://core.telegram.org/bots/api).
 # ChatterBot
 При помощи этой библиотеки мы его научили разговаривать.
 ChatterBot — это библиотека Python,
