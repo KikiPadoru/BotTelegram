@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:sqlite:C:\Users\pavla\PycharmProjects\TelegramBotAI\sqlite_python.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="db" uuid="7e6d8fbd-332e-4acb-8d2d-6ae3d2223cc0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\pavla\PycharmProjects\TelegramBotAI\db.sqlite3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
